@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
+<!--   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/> -->
+<!-- </p> -->
 
 <h1 align="center">Hi 👋, I'm Rishitha M</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Passionate about turning data into impactful insights</h3>
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -66,6 +66,3 @@
 - 💼 LinkedIn: [linkedin.com/in/rishitha-m](https://www.linkedin.com/in/rishitha-m/)
 - 🗂️ GitHub: [github.com/Rishitha0320](https://github.com/Rishitha0320)
 
----
-
-> ⚡ **I'm actively looking for Data Science opportunities (Internship or Full-Time). If you’re hiring or know someone who is, feel free to connect with me. Let’s talk data!**
