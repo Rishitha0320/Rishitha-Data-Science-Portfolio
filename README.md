@@ -1,42 +1,71 @@
-# 👋 Hi, I'm **Rishitha M** – Aspiring Data Scientist
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
 
-I'm a passionate **Data Science Enthusiast** eager to solve real-world problems using data, machine learning, and visualization. Actively seeking **internship/full-time roles** to grow and contribute in impactful projects! 🚀
+<h1 align="center">Hi 👋, I'm Rishitha M</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Passionate about turning data into impactful insights</h3>
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: rishitha.m2022cse@sece.ac.in  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/rishitha-m/](https://www.linkedin.com/in/rishitha-m/)  
-- 💻 Skills: Python 🐍, Pandas 📊, NumPy 🔢, Scikit-learn 🤖, TensorFlow 🧠, Power BI 📈, Matplotlib 🎨, Seaborn 🌊, Jupyter Notebook 📓
-
----
-
-## 🚀 Projects Showcase
-
-### 1. 💉 COVID-19 Vaccination Impact Analysis  
-Analyze the impact of vaccination rates on COVID-19 mortality worldwide using data cleaning, exploratory analysis & visualization.  
-🔗 [Explore Project](https://github.com/Rishitha0320/COVID-19-ANALYSIS)  
-**Tech Stack:** Python, Pandas, Seaborn, Jupyter Notebook
+<p align="center">
+  📊 Data Enthusiast | 🤖 Machine Learning Explorer | 🧠 Lifelong Learner
+</p>
 
 ---
 
-### 2. 🍽️ Zomato Sales Dashboard  
-Created an interactive Power BI dashboard to analyze sales performance across regions & products, helping drive business decisions.  
-🔗 [Explore Project](https://github.com/Rishitha0320/Zomato-Sales-Dashboard)  
-**Tech Stack:** Power BI, Excel
+### 👩‍💻 About Me
+
+- 🎓 I'm a Computer Science Graduate with strong interest in **Data Science** and **Machine Learning**
+- 🔍 Currently seeking **Internship or Full-Time roles** in **Data Science**, **ML Engineering**, or **Data Analyst**
+- 💡 I love solving real-world problems using data-driven approaches
+- 📌 I believe data is not just numbers, but stories waiting to be told
 
 ---
 
-### 3. 🥘 Food Waste Identification using Deep Learning  
-Built a CNN model to classify food waste images, promoting sustainability and reducing food wastage.  
-🔗 [Explore Project](https://github.com/Rishitha0320/Food-waste-identification-)  
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, NumPy
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rishitha-m/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:rishitha.m2022cse@sece.ac.in" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
-## 🎯 What I’m Looking For
+### 🧠 Skills & Tech Stack
 
-I’m excited to apply my skills in **machine learning**, **data analysis**, and **visualization** to real-world challenges. Looking for **collaborative environments** where I can contribute meaningfully and learn continuously.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+</p>
 
 ---
+
+### 🚀 My Data Science Projects
+
+| 📌 Project | 🛠️ Tech Used | 📖 Description | 🔗 Link |
+|-----------|--------------|----------------|---------|
+| 🦠 **COVID-19 Data Analysis** | Python, Pandas, Matplotlib, Seaborn | Analyzed the COVID-19 dataset to uncover trends, case spikes, and visualization insights. | [View Repo](https://github.com/Rishitha0320/COVID-19-ANALYSIS) |
+| 🍽️ **Zomato Sales Dashboard** | Python, Excel, Power BI | Built an interactive sales dashboard using real-time food delivery data. | [View Repo](https://github.com/Rishitha0320/Zomato-Sales-Dashboard) |
+| ♻️ **Food Waste Identification (ML)** | Python, CNN, TensorFlow, Deep Learning | Built a deep learning model to classify images of food waste for smart waste management. | [View Repo](https://github.com/Rishitha0320/Food-waste-identification-) |
+
+
+---
+
+### 📫 Contact
+
+- 📧 Email: **rishitha.m2022cse@sece.ac.in**
+- 💼 LinkedIn: [linkedin.com/in/rishitha-m](https://www.linkedin.com/in/rishitha-m/)
+- 🗂️ GitHub: [github.com/Rishitha0320](https://github.com/Rishitha0320)
+
+---
+
+> ⚡ **I'm actively looking for Data Science opportunities (Internship or Full-Time). If you’re hiring or know someone who is, feel free to connect with me. Let’s talk data!**
